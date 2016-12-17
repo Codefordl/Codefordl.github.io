@@ -1,6 +1,6 @@
 ---
-layout: post
-title: My first blog
+layout:  post
+title:  My first blog
 ---
 #The 9 Deep Learning Papers You Need TO Know About
 ![conv1.jpg](/images/2016-12-17-conv1.png
