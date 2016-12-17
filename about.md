@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I'm a first year graduate student currently studying at SZU,Shenzhen City,China.I'm majoring in computer science.I've had one research internship on image recognition in my first semester.
+I'm passionate about studying knowledge of computer science and deep learning and applying it to areas in image and video processing.
+
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[a894446355@qq.com](mailto:a894446355@qq.com)
