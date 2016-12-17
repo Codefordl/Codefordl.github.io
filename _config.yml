@@ -85,6 +85,5 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
-=======
 theme: jekyll-theme-slate
 >>>>>>> 2635a674da8fc49c696971940eb83baeb4d3044d
